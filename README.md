@@ -10,6 +10,11 @@ This project contains a `Reviews` component built with React and Splide, designe
 - Progress bar indicating the current slide position
 - Adjustable settings for different screen sizes
 
+# Preview
+
+![Sample Preview](https://github.com/AroshaRavishan/Reviews-Slider-NextJs/blob/main/sample%20preview.png)
+
+
 
 ### Slider Data
 
